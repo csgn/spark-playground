@@ -18,3 +18,5 @@ $ ./scripts/create-job.sh
 ```bash
 $ ./scripts/spark-submit.sh <project_name> <package_name> <object_name>
 ```
+
+> You can change the configs at `scripts/env.conf`.
